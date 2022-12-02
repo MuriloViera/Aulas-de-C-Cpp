@@ -1,0 +1,45 @@
+program        |sprogram            |Linha:0
+teste           |sidentificador       |Linha 0
+;              |sponto_virgula      |Linha:0
+var            |svar                |Linha:2
+int            |sint                |Linha 4
+a           |sidentificador       |Linha 4
+;              |sponto_virgula      |Linha:4
+float          |sfloat              |Linha:5
+b           |sidentificador       |Linha 5
+;              |sponto_virgula      |Linha:5
+char           |schar               |Linha:6
+cabec           |sidentificador       |Linha 6
+;              |sponto_virgula      |Linha:6
+int            |sint                |Linha 7
+y           |sidentificador       |Linha 7
+;              |sponto_virgula      |Linha:7
+begin          |sbegin              |Linha:9
+cebac           |sidentificador       |Linha 11
+:=             |satribuicao         |Linha:11
+A              |sASC                |Linha:11
+;              |sponto_virgula      |Linha:11
+c           |sidentificador       |Linha 13
+:=             |satribuicao         |Linha:13
+cebac            |sidentificador       |Linha 13
+/              |sdivisao            |Linha:13
+a           |sidentificador       |Linha 13
+;              |sponto_virgula      |Linha:13
+b           |sidentificador       |Linha 14
+:=             |satribuicao         |Linha:14
+cebac            |sidentificador       |Linha 14
+-              |smenos              |Linha:14
+a           |sidentificador       |Linha 14
+;              |sponto_virgula      |Linha:14
+writec         |swritec             |Linha:16
+(              |sabre_parênteses    |Linha:16
+cabec           |sidentificador       |Linha 16
+)              |sfecha_parênteses   |Linha:16
+;              |sponto_virgula      |Linha:16
+writed         |swrited             |Linha:18
+(              |sabre_parênteses    |Linha:18
+cabec           |sidentificador       |Linha 18
+)              |sfecha_parênteses   |Linha:18
+;              |sponto_virgula      |Linha:18
+end            |send                |Linha:20
+.              |sponto              |Linha:20

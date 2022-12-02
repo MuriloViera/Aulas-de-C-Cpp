@@ -1,0 +1,22 @@
+program teste;
+
+var
+
+int a;
+float b;
+char cabec;
+int y;
+
+begin
+
+cabec:= `A`; { atribui o valor 65 (código
+ASCII da letra A) a variável c }
+
+c:= cabec / a;
+b:= cabec - a;
+
+writec(cabec); { escreve B }
+
+writed(cabec); { escreve 66 }
+
+end.
